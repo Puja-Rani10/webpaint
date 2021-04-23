@@ -1,0 +1,328 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+        /*header start*/
+      .menu ul li a{
+      	padding-top: 10px;
+	     padding-right: 0 !important;
+	     text-align: right;
+}
+      /*header end*/
+       .banner{
+	         height: 350px;
+	    }
+      .b-1{
+	        padding-top: 30px;
+        }
+      h1{
+            padding-bottom: 10px;
+        }
+      .s-s{
+            font-size: 35px;
+        }
+      .s-1{
+            font-size: 35px;
+        }
+       .b-2{
+     	    font-size: 20px;
+    	    letter-spacing: 3px;
+	       line-height: 28px;
+        }
+      button{
+         	padding: 15px 35px 15px 35px;
+	        margin-top: 30px;
+	        font-size: 15px;
+	   }
+	   button{
+	padding: 10px 30px 10px 30px;
+	
+        }
+      /*banner end*/
+       /*elit*/
+          .elit{
+          	   padding: 40px 0 50px 0;
+	
+           }
+
+           .icon{
+	            font-size: 30px;
+	            padding-top: 20px;
+             } 
+             .e-1 h4{
+	            font-size: 18px;
+              }
+
+           .e-1 p{
+	          letter-spacing: 1px;
+	          line-height: 20px;
+            }
+           /*elit*/
+           /*circular*/
+               .circular{
+	               padding: 40px 0 20px 0;
+                }
+                h2{
+	             font-size: 30px;
+	            }
+               .ci-1{
+	               padding: 30px 0 0 0;
+                 }
+                h3{
+	
+	                font-size: 25px;
+	              }
+
+               /*circular*/
+                /*footer*/
+                 footer{
+	                 padding: 50px 0 50px 0;
+	                
+                     }
+                  
+                    .f-1 p{
+                        padding: 10px 0 10px 0;
+	                   font-size: 18px;
+	                   letter-spacing: 1px;
+	                     
+                     }
+                  
+                    .f-s{
+	                    letter-spacing: 0;
+                      }
+                    .f-ii span{
+	                     font-size: 25px;
+	                     padding-right: 8px;
+
+                    }
+                     /*footer*/
+                    /*last footer*/
+                       .last-f{
+
+                     	padding: 20px 0 20px 0;
+                     }
+                     .last-f h5{
+	                       font-size: 16px !important;
+                    }
+                     /*last footer*/
+                        /*isotope*/
+                          .isotope{
+	                        padding:50px 0 50px 0;
+	                     }
+                           .iso-f h2{
+
+	                       padding-bottom: 10px;
+	                       font-size: 30px;
+	                     }
+                          .iso-f p{
+	                        padding-bottom: 10px;
+	                        font-size: 16px;
+	                        letter-spacing: 0;
+	                       line-height: 20px;
+	                    }
+
+                         .bt-1{
+	                      padding: 15px 20px 15px 20px;
+	                      margin-top: 10px;
+	                      margin-right: 5px;
+	                      margin-bottom:  15px;
+	                      font-size: 15px;
+	                    }
+ 
+
+                      /*isotope*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+        
+         /*header start*/
+      .menu ul li a{
+      	padding-top: 10px;
+	     padding-right: 0 !important;
+	     text-align: right;
+}
+      /*header end*/
+      /*banner start*/
+       .b-1{
+	        padding-top: 40px;
+        }
+      h1{
+            padding-bottom: 15px;
+        }
+      .s-s{
+            font-size: 45px;
+        }
+      .s-1{
+            font-size: 45px;
+        }
+       .b-2{
+     	    font-size: 30px;
+    	    letter-spacing: 3px;
+	       line-height: 42px;
+        }
+      button{
+         	padding: 15px 35px 15px 35px;
+	        margin-top: 30px;
+	        font-size: 15px;
+	   }
+      /*banner end*/
+          /*elit*/
+          .elit{
+          	   padding: 50px 0 50px 0;
+	
+           }
+
+           .icon{
+	
+	            padding-top: 20px;
+             } 
+
+           .e-1 p{
+	          letter-spacing: 1px;
+	          line-height: 20px;
+            }
+           /*elit*/
+           /*circular*/
+               .circular{
+	               padding: 40px 0 20px 0;
+                }
+                h2{
+	             font-size: 30px;
+	            }
+               .ci-1{
+	               padding: 30px 0 0 0;
+                 }
+                h3{
+	
+	                font-size: 25px;
+	              }
+
+               /*circular*/
+                /*footer*/
+                 footer{
+	                 padding: 60px 0 60px 0;
+	                 background-color:black;
+                     }
+                  
+                    .f-1 p{
+                        padding: 10px 0 10px 0;
+	                   font-size: 18px;
+	                     
+                     }
+                  
+                    
+                     /*footer*/
+                     /*isotope*/
+
+                     .isotope{
+	                  padding:50px 0 50px 0;
+	                }
+                      .iso-f h2{
+
+	                    padding-bottom: 10px;
+	                    font-size: 30px;
+	                 }
+                     .iso-f p{
+	                    font-size: 16px;
+	                    line-height: 25px;
+	                  }
+
+                     
+                    .bt-1{
+	                    padding: 15px 20px 15px 20px;
+	                    margin-right: 5px;
+	                    margin-bottom:  20px;
+	                   font-size: 15px;
+	                 }
+                     /*isotope*/
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+      
+      /*header start*/
+      .menu ul li a{
+      	padding-top: 10px;
+	     padding-right: 0 !important;
+	     text-align: right;
+}
+      /*header end*/
+      /*banner start*/
+       .b-1{
+	        padding-top: 40px;
+        }
+      h1{
+            padding-bottom: 15px;
+        }
+      .s-s{
+            font-size: 45px;
+        }
+      .s-1{
+            font-size: 45px;
+        }
+       p{
+     	    font-size: 30px;
+    	    letter-spacing: 3px;
+	       line-height: 42px;
+        }
+      button{
+         	padding: 15px 35px 15px 35px;
+	        margin-top: 30px;
+	        font-size: 15px;
+	   }
+      /*banner end*/
+         /*elit*/
+          .elit{
+	          padding: 50px 0 50px 0;
+           }
+             .icon{
+	            padding-top: 20px;
+             }
+            .e-1 p{
+	             line-height: 20px;
+             }
+              /*elit*/
+              /*footer*/
+                 footer{
+	                 padding: 60px 0 60px 0;
+                     }
+                  
+                    .f-1 p{
+                        padding: 10px 0 10px 0;
+	                   font-size: 20px;
+	                   letter-spacing: 0;
+	                     
+                     }
+                  
+                     /*footer*/
+                     /*isotope*/
+                     .isotope{
+	                     padding:60px 0 60px 0;
+	                 }
+                    .iso-f h2{
+	                    padding-bottom: 10px;
+	                   }
+                   .iso-f p{
+
+	                    font-size: 18px;
+	                   line-height: 25px;
+	                 }
+
+                     /*isotope*/
+                     
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+ /*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
